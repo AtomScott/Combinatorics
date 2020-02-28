@@ -17,7 +17,7 @@ I have no intent to maintain this project so anyone can feel free to take over. 
 ## License
 I am keeping the original MIT License (as I am obliged to) which allows users the following permissions.
 
-###, In short, what does the MIT License say?
+### In short, what does the MIT License say?
 
 You can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source. There are many variations of this license in use.
 
