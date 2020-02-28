@@ -1,6 +1,6 @@
 # Combinatorics
 
-This isn't my work, all credit goes to Phillip M. Feldman [[Homepage](http://pypi.python.org/pypi/Combinatorics)].
+This isn't my work, all credit goes to Phillip M. Feldman [[Homepage](https://phillipmfeldman.org/index.html)].
 
 I made this repo because I wanted to be able to easily install this package with pip. You can do so too with 
 
