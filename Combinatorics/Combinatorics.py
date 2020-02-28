@@ -298,6 +298,7 @@ set of functions for solving occupancy functions with capacity limits.
 
 
 import collections, copy, itertools, math, operator
+from functools import reduce
 
 try:
    from scipy.special import gammaln
