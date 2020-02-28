@@ -9,6 +9,15 @@ I made this repo because I wanted to be able to easily install this package with
 Found this but it looks broken, 
 https://pypi.org/project/Combinatorics/ .
 
+## Example
+
+```python
+import Combinatorics
+
+Combinatorics.prod(range(1,11))
+>>>3628800
+```
+
 ## Docs
 Read the comments or look at the webpage below:
 https://phillipmfeldman.org/Python/combinatorics.html
