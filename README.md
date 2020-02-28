@@ -4,7 +4,7 @@ This isn't my work, all credit goes to Phillip M. Feldman [[Homepage](http://pyp
 
 I made this repo because I wanted to be able to easily install this package with pip. You can do so too with 
 
-`pip install git+https://github.com/AtomScott/combinatrics.git`
+`pip install git+https://github.com/AtomScott/Combinatorics.git`
 
 Found this but it looks broken, 
 https://pypi.org/project/Combinatorics/ .
