@@ -6,6 +6,9 @@ I made this repo because I wanted to be able to easily install this package with
 
 `pip install git+https://github.com/AtomScott/combinatrics.git`
 
+Found this but it looks broken, 
+https://pypi.org/project/Combinatorics/ .
+
 ## Docs
 Read the comments or look at the webpage below:
 https://phillipmfeldman.org/Python/combinatorics.html
