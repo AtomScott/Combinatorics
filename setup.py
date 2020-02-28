@@ -14,6 +14,6 @@ setup(name='Combinatorics',
       problems ('balls in boxes'), and (C) sequences in which items are
       constrained to be within a specified distance of their initial location.
       """,
-      py_modules=['Combinatorics'],
+      packages=['Combinatorics'],
       url='http://phillipmfeldman.org/Python/for_developers.html',
 )
